@@ -1,3 +1,4 @@
 # Documents
 
 - privacy policy
+- support
